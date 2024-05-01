@@ -1,10 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+
 img {
   width: 200px;
 }
 
 body {
   text-align: center;
-  font-family: 'Arial';
-  background: azure;
-  color: purple;
+  font-family: 'VT323';
+  background: #36454F;
+  /*color: #008F11;*/
+  color: chartreuse;
 }
+
+/*.vt323-regular {
+  font-family: "VT323", monospace;
+  font-weight: 400;
+  font-style: normal;
+}*/
